@@ -1,0 +1,10 @@
+C:\Users\asl11\source\repos\Payroll-vertime\Payroll-vertime\bin\Debug\Payroll-vertime.exe.config
+C:\Users\asl11\source\repos\Payroll-vertime\Payroll-vertime\bin\Debug\Payroll-vertime.exe
+C:\Users\asl11\source\repos\Payroll-vertime\Payroll-vertime\bin\Debug\Payroll-vertime.pdb
+C:\Users\asl11\source\repos\Payroll-vertime\Payroll-vertime\obj\Debug\Payroll-Overtime.csproj.AssemblyReference.cache
+C:\Users\asl11\source\repos\Payroll-vertime\Payroll-vertime\obj\Debug\Payroll_vertime.Form1.resources
+C:\Users\asl11\source\repos\Payroll-vertime\Payroll-vertime\obj\Debug\Payroll_vertime.Properties.Resources.resources
+C:\Users\asl11\source\repos\Payroll-vertime\Payroll-vertime\obj\Debug\Payroll-Overtime.csproj.GenerateResource.cache
+C:\Users\asl11\source\repos\Payroll-vertime\Payroll-vertime\obj\Debug\Payroll-Overtime.csproj.CoreCompileInputs.cache
+C:\Users\asl11\source\repos\Payroll-vertime\Payroll-vertime\obj\Debug\Payroll-vertime.exe
+C:\Users\asl11\source\repos\Payroll-vertime\Payroll-vertime\obj\Debug\Payroll-vertime.pdb
